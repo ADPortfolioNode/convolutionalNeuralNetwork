@@ -58,4 +58,5 @@ model.get_weights()
 # save model
 
 print('model saved as conv_model.keras')
+
 print('>>>>>>>>>>>>>>>>End of Line<<<<<<<<<<<<<<<<<<')
